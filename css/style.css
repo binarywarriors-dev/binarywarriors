@@ -1125,7 +1125,7 @@ ul {
     .navbar-area.white .nav-container .navbar-collapse .navbar-nav li.current-menu-item a {
       color: #fff; }
     .navbar-area.white .nav-container .navbar-collapse .navbar-nav li a {
-      color: rgba(255, 255, 255, 0.8); }
+      color: rgba(5, 12, 15, 0.8); }
       .navbar-area.white .nav-container .navbar-collapse .navbar-nav li a:hover {
         color: var(--main-color-one); 
       }
